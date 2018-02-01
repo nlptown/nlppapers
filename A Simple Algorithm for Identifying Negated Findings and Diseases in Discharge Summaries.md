@@ -1,8 +1,9 @@
 # A Simple Algorithm for Identifying Negated Findings and Diseases in Discharge Summaries
+
 |||
 | --- | --- |
 | Title | A Simple Algorithm for Identifying Negated Findings and Diseases in Discharge Summaries |
-| Authors | Wendy W. Chapman, Will Bridewell, Paul Hanbury, Gregory F. Cooper, Bruce G. Buchanan*, |
+| Authors | Wendy W. Chapman, Will Bridewell, Paul Hanbury, Gregory F. Cooper, Bruce G. Buchanan|
 | Year | 2001 |
 | URL | https://www.ncbi.nlm.nih.gov/pubmed/12123149 |
 
