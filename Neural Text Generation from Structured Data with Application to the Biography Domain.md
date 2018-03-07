@@ -15,7 +15,7 @@ works like a language model that is conditioned on several types of input:
 - Furthermore, it is _locally_ conditioned on the information from the table
 that has already been taken up in the text. For each relevant word, it takes into account the infobox field
 and its position in that field.  
-- Finally, it is _globally_ conditioned on all tokens and words in the infobox, irrespective of 
+- Finally, it is _globally_ conditioned on all tokens and words in the infobox, irrespective of whether 
 they have already been taken up into the text. This allows the model to produce different 
 types of sentences for e.g. sportspeople and politicians. 
 
