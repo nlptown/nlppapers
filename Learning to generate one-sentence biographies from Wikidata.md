@@ -24,5 +24,4 @@ the capabilities of a single encoder-decoder architecture. Its BLEU score
 with Wikipedia biography sentences is .41, and its output is preferred 40% 
 of the time to the Wikipedia alternative by human judges.
 
-The code and data from this paper can be found on [https://
-github.com/andychisholm/mimo](Github).
+The code and data from this paper can be found on [Github](https://github.com/andychisholm/mimo).
