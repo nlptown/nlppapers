@@ -7,6 +7,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 
 - [Learning to generate one-sentence biographies from Wikidata](Learning%20to%20generate%20one-sentence%20biographies%20from%20Wikidata.md)
 - [Neural Text Generation from Structured Data with Application to the Biography Domain](Neural%20Text%20Generation%20from%20Structured%20Data%20with%20Application%20to%20the%20Biography%20Domain.md).
+- [Generating Wikipedia by Summarizing Long Sentences](Generating%20Wikipedia%20by%20Summarizing%20Long%20Sentences.md)
 - [Learning to Ask: Neural Question Generation for Reading Comprehension](Learning%20to%20Ask%3A%20Neural%20Question%20Generation%20for%20Reading%20Comprehension.md)
 
 ## Named Entity Recognition
