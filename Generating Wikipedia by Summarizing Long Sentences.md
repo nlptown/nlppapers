@@ -4,7 +4,7 @@
 | --- | --- |
 | Title | Generating Wikipedia by Summarizing Long Sentences |
 | Authors | Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, Noam Shazeer |
-| Year | 2015 |
+| Year | 2018 |
 | URL | https://arxiv.org/pdf/1801.10198.pdf |
 
 This paper addresses the task of generating medium-length text from a wide
