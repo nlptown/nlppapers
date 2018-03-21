@@ -21,6 +21,10 @@ heavily influenced by our specific interests and the projects we're involved in.
 - [Seq2SQL: Generating Structured Queries from Natural Language Using Reinforcement Learning](Seq2SQL%3A%20Generating%20Structured%20Queries%20from%20Natural%20Language%20Using%20Reinforcement%20Learning.md)
 - [Morphological Inflection Generation with Hard Monotonic Attention](Morphological%20Inflection%20Generation%20with%20Hard%20Monotonic%20Attention.md)
 
+## Sequence modelling
+
+- [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modelling](An%20Empirical%20Evaluation%20of%20Generic%20Convolutional%20and%20Recurrent%20Networks%20for%20Sequence%20Modelling.md)
+
 ## Machine Translation
 
 - [An Exploration of Neural Sequence-to-Sequence Architectures for Automatic Post-Editing](An%20Exploration%20of%20Neural%20Sequence-to-Sequence%20Architectures%20for%20Automatic%20Post-Editing.md)
