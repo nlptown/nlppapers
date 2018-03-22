@@ -25,6 +25,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 
 - [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modelling](An%20Empirical%20Evaluation%20of%20Generic%20Convolutional%20and%20Recurrent%20Networks%20for%20Sequence%20Modelling.md)
 - [The Importance of Being Recurrent for Modeling Hierarchical Structure](The%20Importance%20of%20Being%20Recurrent%20for%20Modeling%20Hierarchical%20Structure.md)
+- [Comparative Study of CNN and RNN for Natural Language Processing](Comparative%20Study%20of%20CNN%20and%20RNN%20for%20Natural%20Language%20Processing.md)
 
 ## Machine Translation
 
