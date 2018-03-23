@@ -35,3 +35,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 
 - [A Simple Algorithm for Identifying Negated Findings and Diseases in Discharge Summaries](A%20Simple%20Algorithm%20for%20Identifying%20Negated%20Findings%20and%20Diseases%20in%20Discharge%20Summaries.md)
 - [Neural Networks For Negation Scope Detection](Neural%20Networks%20For%20Negation%20Scope%20Detection.md)
+
+## Linguistics
+
+- [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](Diachronic%20Word%20Embeddings%20Reveal%20Statistical%20Laws%20of%20Semantic%20Change.md)
