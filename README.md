@@ -30,6 +30,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 ## Machine Translation
 
 - [An Exploration of Neural Sequence-to-Sequence Architectures for Automatic Post-Editing](An%20Exploration%20of%20Neural%20Sequence-to-Sequence%20Architectures%20for%20Automatic%20Post-Editing.md)
+- [Achieving Human Parity on Automatic Chinese to English News Translation](Achieving%20Human%20Parity%20on%20Automatic%20Chinese%20to%20English%20News%20Translation.md)
 
 ## Negation Detection
 
