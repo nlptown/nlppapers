@@ -44,5 +44,6 @@ heavily influenced by our specific interests and the projects we're involved in.
 
 ## Sentence embeddings
 
-- [A Simple but Tough-to-Beat Baseline for Sentence Embeddings.md](A%20Simple%20but%20Tough-to-Beat%20Baseline%20for%20Sentence%20Embeddings.md)
+- [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](A%20Simple%20but%20Tough-to-Beat%20Baseline%20for%20Sentence%20Embeddings.md)
+- [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)
 - [Universal Sentence Encoder](Universal%20Sentence%20Encoder.md)

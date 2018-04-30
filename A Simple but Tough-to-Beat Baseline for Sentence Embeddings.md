@@ -18,7 +18,7 @@ be estimated on a variety of corpora (such as Wikipedia), with the precise choic
 little effect on the results.
 
 2. Common component removal: compute the principal component of the resulting vectors
-for a set of sentences and subtract from them their projects on this first principal component.
+for a set of sentences and subtract from them their projections on this first principal component.
 
 This two-step method is motivated by a random walk model of discourse, where the probability
 of a word being generated is proportional to the inner product between a discourse vector
