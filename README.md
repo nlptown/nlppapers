@@ -37,14 +37,18 @@ heavily influenced by our specific interests and the projects we're involved in.
 - [A Simple Algorithm for Identifying Negated Findings and Diseases in Discharge Summaries](A%20Simple%20Algorithm%20for%20Identifying%20Negated%20Findings%20and%20Diseases%20in%20Discharge%20Summaries.md)
 - [Neural Networks For Negation Scope Detection](Neural%20Networks%20For%20Negation%20Scope%20Detection.md)
 
-## Word embeddings
+## Word Embeddings
 
 - [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](Diachronic%20Word%20Embeddings%20Reveal%20Statistical%20Laws%20of%20Semantic%20Change.md)
 - [Dynamic Word Embeddings for Evolving Semantic Discovery](Dynamic%20Word%20Embeddings%20for%20Evolving%20Semantic%20Discovery.md)
 - [Deep contextualized word representations](Deep%20contextualized%20word%20representations.md)
 
-## Sentence embeddings
+## Sentence Embeddings
 
 - [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](A%20Simple%20but%20Tough-to-Beat%20Baseline%20for%20Sentence%20Embeddings.md)
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)
 - [Universal Sentence Encoder](Universal%20Sentence%20Encoder.md)
+
+## Transfer Learning
+
+- [Universal Language Model Fine-tuning for Text Classification](Universal%20Language%20Model%20Fine-tuning%20for%20Text%20Classification.md)
