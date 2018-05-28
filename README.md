@@ -20,6 +20,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 - [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](Incorporating%20Copying%20Mechanism%20in%20Sequence-to-Sequence%20Learning.md)
 - [Seq2SQL: Generating Structured Queries from Natural Language Using Reinforcement Learning](Seq2SQL%3A%20Generating%20Structured%20Queries%20from%20Natural%20Language%20Using%20Reinforcement%20Learning.md)
 - [Morphological Inflection Generation with Hard Monotonic Attention](Morphological%20Inflection%20Generation%20with%20Hard%20Monotonic%20Attention.md)
+- [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](Delete,%20Retrieve,%20Generate:%20A%20Simple%20Approach%20to%20Sentiment%20and%20Style%20Transfer.md)
 
 ## Sequence modelling
 
