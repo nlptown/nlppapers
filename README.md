@@ -42,6 +42,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 
 - [Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change](Diachronic%20Word%20Embeddings%20Reveal%20Statistical%20Laws%20of%20Semantic%20Change.md)
 - [Dynamic Word Embeddings for Evolving Semantic Discovery](Dynamic%20Word%20Embeddings%20for%20Evolving%20Semantic%20Discovery.md)
+- [Learned in Translation: Contextualized Word Vectors](Learned%20in%20Translation:%20Contextualized%20Word%20Vectors.md)
 - [Deep contextualized word representations](Deep%20contextualized%20word%20representations.md)
 
 ## Sentence Embeddings

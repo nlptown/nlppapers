@@ -13,7 +13,7 @@ use context-insensitive embeddings such as GloVe or word2vec, despite the fact
 word meaning can vary considerably between contexts. ELMo fixes this problem 
 by assigning to each token a representation that is a function of the entire input sentence.
 
-Embeddings from Language Models (ELMo) derives its name from the fact that its
+Embeddings from Language Models (ELMo) gets its name from the fact that its
 word representations are derived from a 2-layer bidirectional LSTM language model. 
 It distinguishes itself 
 from previous approaches in that it combines all of the internal layers of the
