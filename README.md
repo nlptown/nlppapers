@@ -45,6 +45,8 @@ heavily influenced by our specific interests and the projects we're involved in.
 - [Learned in Translation: Contextualized Word Vectors](Learned%20in%20Translation:%20Contextualized%20Word%20Vectors.md)
 - [Deep contextualized word representations](Deep%20contextualized%20word%20representations.md)
 
+## Multilingual word embeddings
+
 ## Sentence Embeddings
 
 - [A Simple but Tough-to-Beat Baseline for Sentence Embeddings](A%20Simple%20but%20Tough-to-Beat%20Baseline%20for%20Sentence%20Embeddings.md)
