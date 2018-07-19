@@ -58,3 +58,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 ## Transfer Learning
 
 - [Universal Language Model Fine-tuning for Text Classification](Universal%20Language%20Model%20Fine-tuning%20for%20Text%20Classification.md)
+
+## QA
+
+- [Semantically Equivalent Adversarial Rules for Debugging NLP models](Semantically%20Equivalent%20Adversarial%20Rules%20for%20Debugging%20NLP%20models.md)
