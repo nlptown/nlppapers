@@ -59,6 +59,10 @@ heavily influenced by our specific interests and the projects we're involved in.
 
 - [Universal Language Model Fine-tuning for Text Classification](Universal%20Language%20Model%20Fine-tuning%20for%20Text%20Classification.md)
 
-## QA
+## Multitask Learning
+
+- [The Natural Language Decathlon: Multitask Learning as Question Answering](The%20Natural%20Language%20Decathlon%3A%20Multitask%20Learning%20as%20Question%20Answering.md)
+
+## Quality
 
 - [Semantically Equivalent Adversarial Rules for Debugging NLP models](Semantically%20Equivalent%20Adversarial%20Rules%20for%20Debugging%20NLP%20models.md)
