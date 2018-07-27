@@ -48,6 +48,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 ## Multilingual word embeddings
 
 - [Offline Bilingual Word Vectors, Orthogonal Transformations and the Inverted Softmax](Offline%20Bilingual%20Word%20Vectors,%20Orthogonal%20Transformations%20and%20the%20Inverted%20Softmax.md)
+- [Word Translation without Parallel Data](Word%20Translation%20without%20Parallel%20Data.md)
 
 ## Sentence Embeddings
 
