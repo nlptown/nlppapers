@@ -56,6 +56,10 @@ heavily influenced by our specific interests and the projects we're involved in.
 - [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](Supervised%20Learning%20of%20Universal%20Sentence%20Representations%20from%20Natural%20Language%20Inference%20Data.md)
 - [Universal Sentence Encoder](Universal%20Sentence%20Encoder.md)
 
+## Cross-modal models
+
+- [Do Neural Network Cross-Modal Mappings Really Bridge Modalities?](Do%20Neural%20Network%20Cross-Modal%20Mappings%20Really%20Bridge%20Modalities)
+
 ## Transfer Learning
 
 - [Universal Language Model Fine-tuning for Text Classification](Universal%20Language%20Model%20Fine-tuning%20for%20Text%20Classification.md)
