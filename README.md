@@ -58,7 +58,7 @@ heavily influenced by our specific interests and the projects we're involved in.
 
 ## Cross-modal models
 
-- [Do Neural Network Cross-Modal Mappings Really Bridge Modalities?](Do%20Neural%20Network%20Cross-Modal%20Mappings%20Really%20Bridge%20Modalities)
+- [Do Neural Network Cross-Modal Mappings Really Bridge Modalities?](Do%20Neural%20Network%20Cross-Modal%20Mappings%20Really%20Bridge%20Modalities.md)
 
 ## Transfer Learning
 
